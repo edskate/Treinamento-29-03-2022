@@ -1,0 +1,17 @@
+body{
+              color: aquamarine;
+              text-shadow: 2px 3px 4px rgb(0, 0, 0);
+              font-size: 40px;
+}
+table{
+              border-radius: 10px 10px 10px ;
+              border: 4px solid #000;
+}
+h2{
+              text-align: center;
+              color: #000;
+              text-shadow: 10px 10px 10px #000;
+}
+li{
+              font-size: 40px;
+}
